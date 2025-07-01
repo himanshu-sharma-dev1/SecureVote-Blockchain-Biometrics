@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/himanshusharma/dVoting/logs/.b15cbc374e4c6ac923ac46705903995e6eb0e51c-audit.json",
+    "files": [
+        {
+            "date": 1751367174316,
+            "name": "/Users/himanshusharma/dVoting/logs/mcp-puppeteer-2025-07-01.log",
+            "hash": "fc895ece4c0d1c9e05fd0b8fd6e96071b32b8669fc3cec4a9004be1c2e46a8ec"
+        }
+    ],
+    "hashType": "sha256"
+}
