@@ -70,6 +70,13 @@
     npm install
     npm start
     ```
+6.  **Launch Backend OTP Server:**
+    In a new terminal, navigate to the `server` directory and start the Node.js server:
+    ```bash
+    cd server
+    npm start
+    ```
+    *This server handles OTP generation and verification. Ensure it is running alongside Ganache and the frontend for the registration functionality to work.*
 
 ## 🚀 Future Roadmap
 

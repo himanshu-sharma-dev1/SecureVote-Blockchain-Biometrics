@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "ethers": "^6.13.5",
+    "face-api.js": "^0.22.2",
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "react-file-reader": "^1.1.4",
@@ -33,5 +34,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy": "http://localhost:3001"
 }

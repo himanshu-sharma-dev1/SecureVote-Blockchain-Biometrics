@@ -28,3 +28,20 @@
   overflow: auto;
   line-height: 1.5em;
 }
+
+/* Styles for input with a button next to it */
+.input-with-button {
+  display: flex;
+  align-items: center;
+}
+
+.input-with-button .input-r {
+  flex-grow: 1;
+  margin-right: 0.5em;
+}
+
+.btn-send-otp {
+  padding: 1em;
+  height: 100%;
+  white-space: nowrap;
+}
